@@ -1,3 +1,12 @@
+/**************************************************************************
+*		UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+*TITULO: Arboles AVL
+*AUTOR(ES): Christian Andrango, Isaac Escobar. Cristian Maranje, Daniela Pilataxi
+*FECHA: JUEVES 6 DE ENERO DE 2022
+*VERSION: 1
+*ESTRUCTURA DE DATOS
+*NRC: 7166
+***************************************************************************/
 #include <iostream>
 #include "Arbol.h"
 using namespace std;
