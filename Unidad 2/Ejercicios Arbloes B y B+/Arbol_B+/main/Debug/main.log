@@ -1,0 +1,83 @@
+﻿  main.cpp
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(434,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(428): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::print(BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\main.cpp(34): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::print(BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\main.cpp(14): message : Vea la referencia a la creación de una instancia de clase plantilla "BLinkTree<3,int>" que se está compilando
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(438,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(160,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(144): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::remove(const int &)"
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\main.cpp(42): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::remove(const int &)" que se está compilando
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(175,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(179,12): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(209,15): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(218,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(228,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(237,15): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(240,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(81,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(65): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::insert(const int &)"
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\main.cpp(26): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::insert(const int &)" que se está compilando
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(94,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(97,1): warning C4267: 'inicializando': conversión de 'size_t' a 'short'; posible pérdida de datos
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(122,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(124,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(330,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(328): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::removeAuxFunction(int,BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(233): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::removeAuxFunction(int,BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(335,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(353,19): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(382,16): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(390,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(392,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(402,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(404,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(411,16): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(415,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(417,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(271,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(268): message : al compilar la función del miembro clase plantilla "void BLinkTree<3,int>::insertAuxFunction(int,BLinkNode<3,Type> *,BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(139): message : Vea la referencia a la creación de una instancia de la función plantilla "void BLinkTree<3,int>::insertAuxFunction(int,BLinkNode<3,Type> *,BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(305,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(307,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(309,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(311,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(47,25): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(39): message : al compilar la función del miembro clase plantilla "bool BLinkTree<3,int>::search(const int &) const"
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(149): message : Vea la referencia a la creación de una instancia de la función plantilla "bool BLinkTree<3,int>::search(const int &) const" que se está compilando
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(58,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(256,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(252): message : al compilar la función del miembro clase plantilla "BLinkNode<3,Type> *BLinkTree<3,Type>::findParent(BLinkNode<3,Type> *,BLinkNode<3,Type> *)"
+          with
+          [
+              Type=int
+          ]
+C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\main\b-plus.h(350): message : Vea la referencia a la creación de una instancia de la función plantilla "BLinkNode<3,Type> *BLinkTree<3,Type>::findParent(BLinkNode<3,Type> *,BLinkNode<3,Type> *)" que se está compilando
+          with
+          [
+              Type=int
+          ]
+  main.vcxproj -> C:\Users\USUARIO\Desktop\Estructura de Datos\02 Parcial\Arbol_B+\Debug\main.exe
