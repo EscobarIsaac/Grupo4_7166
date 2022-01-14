@@ -1,0 +1,7 @@
+﻿  Lista.cpp
+  main.cpp
+C:\Users\USUARIO\Desktop\ListasSimples\Lista.h(11,1): warning C4005: 'NULL': redefinición de macro
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime.h(233): message : vea la definición anterior de 'NULL'
+  Nodo.cpp
+  Generando código...
+  ListasSimples.vcxproj -> C:\Users\USUARIO\Desktop\ListasSimples\x64\Debug\ListasSimples.exe
